@@ -32,8 +32,10 @@ void loop() {
   ```
 
 2. Instalar la libreria de **DHT sensor library for ESPx**
+![](https://github.com/RaulCasS/DHT22/blob/main/Captura%20de%20pantalla%202024-12-11%20230225.png?raw=true)
 
-  
+3. Agregar y hacer la conexión de **DHT22** con la **ESP32** como se muestra en la siguiente imagen:
+
 
 
 
