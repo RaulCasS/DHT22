@@ -6,7 +6,7 @@
 Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https://wokwi.com/)
 
 ### INSTRUCCIONES DE PREPARACION DE ENTORNO
-1. Abrir la terminal de programación y colocar la siguiente programación:
+1. Abrir la terminal de programación (**sketch.ino**) y colocar la siguiente programación:
    
 ```
 #include "DHTesp.h"
@@ -31,7 +31,7 @@ void loop() {
   delay(10);  
   ```
 
-2. Instalar la libreria de **DHT sensor library for ESPx**
+2. Instalar la libreria de **DHT sensor library for ESPx** como en la siguiente imagen:
    
 ![](https://github.com/RaulCasS/DHT22/blob/main/Captura%20de%20pantalla%202024-12-11%20230225.png?raw=true)
 
@@ -54,6 +54,10 @@ Veras los valores dentro del monitor serial siempre y cuando haya funcionado cor
 ### CRÉDITOS
 
 Desarrollador por el Ing. Raúl Castañeda Sotelo
+
+https://github.com/RaulCasS (GitHub)
+
+
 
 
 
