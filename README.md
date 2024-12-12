@@ -49,6 +49,16 @@ void loop() {
 
 Veras los valores dentro del monitor serial siempre y cuando haya funcionado correctamente, como se muestra en la siguiente imagen:
 
+![](https://github.com/RaulCasS/DHT22/blob/main/Captura%20de%20pantalla%202024-12-11%20231754.png?raw=true)
+
+### CRÉDITOS
+
+Desarrollador por el Ing. Raúl Castañeda Sotelo
+
+
+
+
+
 
 
 
